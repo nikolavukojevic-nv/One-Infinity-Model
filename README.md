@@ -1,2 +1,2 @@
 # Infinity-Model
-One model of/for infinity
+A model of/for infinity
