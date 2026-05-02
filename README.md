@@ -1,2 +1,2 @@
-# One-Infinity-Model
-One model of/for everything
+# Infinity-Model
+A model of/for infinity
